@@ -1,6 +1,10 @@
-## Worklet Area - Image processing, Face detection
+# Face Detection Using Depth Information
 
-This project is to determine if human faces are visible in a depth image and if so what are their positions
+## Problem Statement:
+Worked in the worklet area: Image Processing and Face Detection to develop a solution to detect human faces in a depth image
 
-- Custom Haar Cascade
-- Custom CNN
+## Solution description:
+Developed two models and drew comparisons between them: A custom haar cascade classifier using OpenCV and custom CNN using Tensorflow and Keras
+
+## Achievements:
+Selected as one of the 7 finalists in the annual Samsung Prism event where our project was presented to the Samsung leadership team
